@@ -1,7 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=UmarFarooq-MP&show_icons=true">
 
-# Hello World! I'm Levent.
-* I am a 21 years old Computer Science student. I am interested in areas such as System Programming, Artificial Intelligence and Reverse Engineering, and I include these topics in my blog posts. I am extremely interested in Linux and Open-Source Software. You can see, use and support my open source projects from my repos. You can also invite me to your projects, I'm always open to developing new things :)
+# Hello World! I'm Umar.
+* I am a 23 years old c++/blockchain enthaust from majestic Margallah Hils Islamabad. My primery goal is to apply my expertise for maximum exposure in this       competitive community. Highly motivated to pursue any challenge.
 
 # Interests
 [![](https://img.shields.io/badge/c%2B%2B-programming-brightgreen?style=for-the-badge&logo=appveyor)]()
+[![](https://img.shields.io/badge/BlockChain-Fintech-blue?style=for-the-badge&logo=appveyor)]()
