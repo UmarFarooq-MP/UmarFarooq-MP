@@ -5,6 +5,3 @@
 
 # Interests
 [![](https://img.shields.io/badge/c%2B%2B-programming-brightgreen?style=for-the-badge&logo=appveyor)]()
-[![](https://img.shields.io/badge/C%2B%2B-programming-brightgreen)]()
-[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
-
