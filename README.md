@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=UmarFarooq-MP&show_icons=true">
 
 # Hello World! I'm Umar.
-* I am a Golang and Blockchain enthusiast from majestic margallah hills. My primary goal is to apply my expertise for maximum exposure in this competitive community. Highly motivated to pursue any challenge.
+* A Golang & Blockchain enthusiast from majestic margallah hills. My primary goal is to apply my expertise for maximum exposure in this competitive community. Highly motivated to pursue any challenge.
 
 # Interests
 [![](https://img.shields.io/badge/Go-Programming-red?style=for-the-badge&logo=appveyor)]()
