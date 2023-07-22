@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=UmarFarooq-MP&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=UmarFarooq-MP&show_icons=false">
 
 # Hello World! I'm Umar.
 * A Golang & Blockchain enthusiast from majestic margallah hills. My primary goal is to apply my expertise for maximum exposure in this competitive community. Highly motivated to pursue any challenge.
